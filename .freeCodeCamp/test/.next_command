@@ -126,3 +126,12 @@ git remote set-url origin https://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@githu
 git remote add origin https://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@github.com/Marcosgsanchez/worldCup.git
 git push -u origin main
 git add .
+git commit -m "Primer commit del proyecto World Cup"
+git branch -M main
+git push -u origin main
+__vsc_prompt_cmd_original
+git add queries.sh insert_data.sh
+git commit -m "Mis archivos del mundial"
+git add queries.sh insert_data.sh
+git status
+git add -A
